@@ -1,2 +1,2 @@
 # FlowERP
-Final year Information Systems project.
+Information Systems project.
